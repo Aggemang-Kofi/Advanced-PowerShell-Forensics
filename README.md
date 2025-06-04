@@ -238,7 +238,7 @@ Consider tagging findings to MITRE ATT\&CK techniques:
 
 ---
 
-###  Incident Response Automation Framework (Starter Snippet)
+###  Incident Response Automation Framework (Snippet)
 
 Kick-start automated triage with a modular PowerShell function:
 
